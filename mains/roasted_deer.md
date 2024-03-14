@@ -1,4 +1,4 @@
-# Incredients
+# Ingredients
 
 - 0.5-0.8 kg deer top round
 - 4 carrots
