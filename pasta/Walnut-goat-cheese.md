@@ -1,4 +1,4 @@
-## Ingredientss
+## Ingredients
 
     200g short pasta 
     2 tbsp olive oil
@@ -7,3 +7,6 @@
     2 garlic cloves, crushed
     ½ tsp chilli flakes 
     100g soft goat's cheese 
+    
+# Instructions
+    Boil Pasta
